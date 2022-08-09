@@ -39,6 +39,9 @@ hobbies: ["Code", "Football"]
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket)
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)
+![Twilio](https://img.shields.io/badge/-Twilio-05122A?style=flat&logo=twilio)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 <br/>
