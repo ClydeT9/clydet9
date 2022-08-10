@@ -13,6 +13,8 @@ company: Digit89
 hobbies: ["Code", "Football"]
 ```
 
+<center>
+
 <br/>
 
 ### 🛠 Tech Stack
@@ -44,5 +46,8 @@ hobbies: ["Code", "Football"]
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)
 ![Twilio](https://img.shields.io/badge/-Twilio-05122A?style=flat&logo=twilio)
 ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)
+
+</center>
+
 <br/>
 <br/>
