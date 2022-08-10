@@ -13,11 +13,13 @@ company: Digit89
 hobbies: ["Code", "Football"]
 ```
 
-<center>
+<br/>
 
 <br/>
 
-### 🛠 Tech Stack
+<div id="badges" align="center">
+
+## 🛠 Tech Stack
 
 <br/>
 
@@ -47,7 +49,7 @@ hobbies: ["Code", "Football"]
 ![Twilio](https://img.shields.io/badge/-Twilio-05122A?style=flat&logo=twilio)
 ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)
 
-</center>
+</div>
 
 <br/>
 <br/>
