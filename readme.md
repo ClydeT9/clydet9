@@ -15,8 +15,6 @@ hobbies: ["Code", "Football"]
 
 <br/>
 
-<br/>
-
 <div id="badges" align="center">
 
 ## 🛠 Tech Stack
